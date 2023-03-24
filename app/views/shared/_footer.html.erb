@@ -7,7 +7,7 @@
             <span><%= t(".language_name_of_locale", locale: locale) %></span>
           <% end %>
         </div>
-      <% end %>
+      <% end if I18n.available_locales.size > 1 %>
     </nav>
 
     <nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
