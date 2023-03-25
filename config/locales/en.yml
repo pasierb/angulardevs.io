@@ -532,8 +532,8 @@ en:
         signed_on: Signed on %{date}
   home:
     show:
-      available_developers: Developers available now
       description_og: AngularDevs empowers independent developers available for their next gig. Stop scouring job boards and sit back as companies reach out to you first.
+      developers_heading: New Angular developers on AngularDevs
       get_started: Get started
       learn_more: Learn more
       more: See more developers
